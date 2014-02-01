@@ -1,4 +1,6 @@
-PigUdfs
+Pig User Defined Functions
 =======
 
-Custom user defined functions for PIG (including an ntriple loader)
+Pig UDFs for the sampld pipeline
+
+To build: <pre>mvn package</pre>
